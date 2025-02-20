@@ -113,7 +113,7 @@ By capturing data ingestion and transformation requirements into a metadata mode
 
 ### *Attachment*:
 
-- Git Repository: [demo-analytic-data-platform](https://github.com/mehmetmisset/demo-analytic-data-platform/tree/adding-a-meta-data-model)(use the “adding-a-meta-data-model”-branch)
+- Git Repository: [demo-analytic-data-platform]([https://github.com/mehmetmisset/demo-analytic-data-platform/tree/adding-a-meta-data-model](https://github.com/mehmetmisset/linkedin-article-1-data-ingestion-transformation-requirements/tree/main))
 
 ## 5. Next topic
 
