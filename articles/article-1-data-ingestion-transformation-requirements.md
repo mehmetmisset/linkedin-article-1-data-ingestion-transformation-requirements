@@ -87,7 +87,7 @@ The __*data engineer/modeler*__ can write the query to do this. Remember Simplic
 
 The framework already can provided "__*Data Lineage*__" based on the parsing of "__*Transformations*__". By ider providing "__*Business/Functional*__"-names and -descriptions "__*Data Definition*__" are covert. The *meta-data-model* can be used to reference "__*Busines Objects*__" from the "__*Data Glossary*__" this can be done by "__*ingestion*__" of the "__*Data Glossary*__" as datasets them selfs.
 Integrating "__*Data Quality*__" is a logical next extention of the "*meta-data-model*", the aspects of this will be descussed in the next article (see [next topics](#5-next-topic)).
-Extending the __*Dataset*__-information with "__*Data Owner*__ and __*User groups*__ data should have read access "__Data Security__"-component of the __*Data management*__ is covert as well.
+Extending the __*Dataset*__-information with "__*Data Owner*__ and __*User groups*__ that should have read access, the "__Data Security__"-component can be covert this way.
 
 ### 3.2. Git-Repository and the development process
 
@@ -100,8 +100,6 @@ The *development*-process as show here above has integrated the Git-repository w
 ### 3.3 A Front-End tool
 
 A Front-end tool is technically not needed, however due to the relationship between datasets, attributes, parameters, transformations and every entry should be uniquely identifiable, a simple front-end tool is and would be nice. 
-
-Microsoft Access makes a good candidate for a Front-End tool, programming is VBA well documented by Microsoft and the Microsoft Office suit is broadly adopted in many companies, if not a runtime-version is provided by Microsoft.
 
 This tool should be programmed to extract the metadata from the repository and presented it in the form of menu`s, list- and detail-forms. Unique keys should be generated, drop-down-list should help providing correct values. When the metadata is changed the tool should update the relevant parts of the repository.
 
