@@ -398,4 +398,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Ignore the following files if you are using the "GitHub for Windows" client
 credentials.py
