@@ -400,5 +400,4 @@ FodyWeavers.xsd
 *.sln.iml
 
 # Ignore the following files if you are using the "GitHub for Windows" client
-**/**/credentials.py
-demo-analytic-data-platform/4-processing-python/modules/credentials.py
+**/credentials.py
