@@ -24,6 +24,7 @@ blob_documentation = {
     "secret"    : "the-secret-name-of-the-accesskey",
     "container" : "your-container-name"
 }
+
 # path to the executable of Python
 ds_path_to_python = r'path_to_and_including_python.exe'
 
