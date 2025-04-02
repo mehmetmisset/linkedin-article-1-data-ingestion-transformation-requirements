@@ -30,4 +30,3 @@ ds_path_to_python = r'path_to_and_including_python.exe'
 
 # path to the JDBC SQL Server Drivers (Jars)
 ds_path_to_jdbc   = r'path_to_jdbc_sql_server_jar\sqljdbc_12.8\enu\jars\mssql-jdbc-12.8.1.jre8.jar'
-
